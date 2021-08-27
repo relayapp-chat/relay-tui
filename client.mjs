@@ -12,6 +12,11 @@ console.log(chalk.blue(`
 ##.. ##::: ##...:::: ##::::::: #########:::: ##::::
 ##::. ##:: ##::::::: ##::::::: ##.... ##:::: ##::::
 ##:::. ##: ########: ########: ##:::: ##:::: ##::::
+
+Written by:
+@CooperSma
+&
+@reesericci
 `))
 
 const ws = new WebSocket(process.env.WS_CLIENT_URL);
