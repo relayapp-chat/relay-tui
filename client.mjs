@@ -13,10 +13,7 @@ console.log(chalk.blue(`
 ##::. ##:: ##::::::: ##::::::: ##.... ##:::: ##::::
 ##:::. ##: ########: ########: ##:::: ##:::: ##::::
 
-Written by:
-@CooperSma
-&
-@reesericci
+https://github.com/relaychat-app/relay-tui
 `))
 
 const ws = new WebSocket(process.env.WS_CLIENT_URL);
